@@ -184,15 +184,15 @@ a {
 
 .top-menu-bookmarks {
   padding-top: 9px;
-  background: url(img/icons/icon-bookmarks-top.png) no-repeat 20px 13px;
+  background: url(../img/icons/icon-bookmarks-top.png) no-repeat 20px 13px;
 }
 
 .top-menu-bookmarks:hover a {
-  background: url(img/icons/icon-bookmarks-top-hover.png) no-repeat 20px 13px;
+  background: url(../img/icons/icon-bookmarks-top-hover.png) no-repeat 20px 13px;
 }
 
 .top-menu-bookmarks:active a {
-  background: url(img/icons/icon-bookmarks-top.png) no-repeat 20px 13px;
+  background: url(../img/icons/icon-bookmarks-top.png) no-repeat 20px 13px;
   background-color: #161D29;
 }
 
@@ -206,15 +206,15 @@ a {
 
 .top-menu-basket {
   padding-top: 9px;
-  background: url(img/icons/icon-basket-top.svg) no-repeat 26px 13px;
+  background: url(../img/icons/icon-basket-top.svg) no-repeat 26px 13px;
 }
 
 .top-menu-basket:hover {
-  background: url(img/icons/icon-basket-top-hover.png) no-repeat 26px 13px
+  background: url(../img/icons/icon-basket-top-hover.png) no-repeat 26px 13px
 }
 
 .top-menu-basket:active a {
-  background: url(img/icons/icon-basket-top.svg) no-repeat 26px 12px;
+  background: url(../img/icons/icon-basket-top.svg) no-repeat 26px 12px;
   background-color: #161D29;
 }
 
