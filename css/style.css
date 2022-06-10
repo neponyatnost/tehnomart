@@ -257,13 +257,13 @@ a {
   font-size: 18px;
   line-height: 24px;
   color: black;
-  background: url(img/icons/icon-search-top.svg) no-repeat 17px 12px;
+  background: url(../img/icons/icon-search-top.svg) no-repeat 17px 12px;
   background-size: 17px;
   padding: 0 0 0 42px;
 }
 
 .top-search:hover {
-  background: url(img/icons/icon-search-top-hover.svg) no-repeat 17px 12px;
+  background: url(../img/icons/icon-search-top-hover.svg) no-repeat 17px 12px;
 }
 
 input:hover, input:focus {
@@ -276,7 +276,7 @@ input:hover, input:focus {
   font-weight: 400;
   font-size: 18px;
   line-height: 24px;
-  background: url(img/icons/icon-search-top-active.svg) no-repeat 17px 12px;
+  background: url(../img/icons/icon-search-top-active.svg) no-repeat 17px 12px;
   background-color: #fff;
 }
 
@@ -341,7 +341,7 @@ input[type="search"]::-webkit-search-results-decoration { display: none; }
   padding: 7px 50px 8px 74px;
   background-color: #F3F7F9;
   border: 3px solid #FFFFFF;
-  background: url(img/icons/icon-phone.svg) no-repeat 39px 11px;
+  background: url(../img/icons/icon-phone.svg) no-repeat 39px 11px;
 }
 
 .top-address p {
@@ -366,21 +366,21 @@ input[type="search"]::-webkit-search-results-decoration { display: none; }
   color: black;
   padding: 12px 27px 12px 45px;
   margin-right: 10px;
-  background-image: url(img/icons/icon-login.svg);
+  background-image: url(../img/icons/icon-login.svg);
   background-repeat: no-repeat;
   background-position: 19px 15px;
 }
 
 .register a:first-of-type:hover {
   color: #EE3643;
-  background-image: url(img/icons/icon-login-hover.svg);
+  background-image: url(../img/icons/icon-login-hover.svg);
   background-repeat: no-repeat;
   background-position: 19px 15px;
 }
 
 .register a:first-of-type:active {
   color: #C5C5C5;
-  background-image: url(img/icons/icon-login.svg);
+  background-image: url(../img/icons/icon-login.svg);
   background-repeat: no-repeat;
   background-position: 19px 15px;
 }
@@ -502,7 +502,7 @@ input[type="search"]::-webkit-search-results-decoration { display: none; }
 }
 
 .promo-item-materials {
-  background: url(img/icons/icon-materials.png) no-repeat 213px 31px;
+  background: url(../img/icons/icon-materials.png) no-repeat 213px 31px;
   background-color: #FFBF47;
 }
 
@@ -514,12 +514,12 @@ input[type="search"]::-webkit-search-results-decoration { display: none; }
   position: absolute;
   width: 70px;
   height: 70px;
-  background: url(img/icons/icon-new.png) no-repeat 0 0;
+  background: url(../img/icons/icon-new.png) no-repeat 0 0;
   margin-left: 230px;
 }
 
 .promo-item-instrument {
-  background: url(img/icons/icon-instrument.png) no-repeat 194px 35px;
+  background: url(../img/icons/icon-instrument.png) no-repeat 194px 35px;
   background-color: #3BBCE3;
 }
 
@@ -528,7 +528,7 @@ input[type="search"]::-webkit-search-results-decoration { display: none; }
 }
 
 .promo-item-technic {
-  background: url(img/icons/icon-technic.png) no-repeat 191px 31px;
+  background: url(../img/icons/icon-technic.png) no-repeat 191px 31px;
   background-color: #DC91D8;
 }
 
@@ -537,7 +537,7 @@ input[type="search"]::-webkit-search-results-decoration { display: none; }
 }
 
 .promo-item-discount {
-  background: url(img/icons/icon-discount.png) no-repeat 195px 26px;
+  background: url(../img/icons/icon-discount.png) no-repeat 195px 26px;
   background-color: #8ED78F;
 }
 
@@ -546,7 +546,7 @@ input[type="search"]::-webkit-search-results-decoration { display: none; }
 }
 
 .promo-item-delivery {
-  background: url(img/icons/icon-delivery.png) no-repeat 191px 33px;
+  background: url(../img/icons/icon-delivery.png) no-repeat 191px 33px;
   background-color: #FFBF47;
 }
 
@@ -555,7 +555,7 @@ input[type="search"]::-webkit-search-results-decoration { display: none; }
 }
 
 .promo-item-slider {
-  background-image: url(img/content/main-page-slider-perforator.jpg);
+  background-image: url(../img/content/main-page-slider-perforator.jpg);
   background-repeat: no-repeat;
   grid-column: span 2;
   grid-row: span 2;
@@ -887,7 +887,7 @@ input[type="search"]::-webkit-search-results-decoration { display: none; }
 .delivery-block {
   display: flex;
   /* margin-left: 320px; */
-  background: url(img/content/delivery-background.png) no-repeat 151px 22px;
+  background: url(../img/content/delivery-background.png) no-repeat 151px 22px;
 }
 
 .delivery-head {
