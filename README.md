@@ -1,2 +1,1 @@
-# tehnomart
-HTML Academy
+https://neponyatnost.github.io/tehnomart/
